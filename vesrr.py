@@ -39,4 +39,5 @@ class authClass(tabDelim):
 d = drupClass(args.files[1])
 a = authClass(args.files[0])
 
+#  ./vesrr.py ../Download20190312-093951.txt  ../vesr-drupal.txt
 #print a.data
